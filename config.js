@@ -4,7 +4,7 @@ var config = {
     lines: [
         "亲爱的HXS",
         "从我们8岁相见起，对宝宝就有宿命的感觉",
-        "从此之后，You Make My Everday",
+        "从此之后，You Make My Everyday",
         "亲爱的宝宝，你是我的唯一",
         "永远爱你的HZF",
     ],
